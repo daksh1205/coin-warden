@@ -9,6 +9,8 @@ Coin Warden: Your gateway to blockchain mastery. Learn Bitcoin, Solana, and more
 
 [![Flutter](https://img.shields.io/badge/Flutter-2.0-blue.svg?logo=flutter&logoColor=white&color=02569B)](https://flutter.dev)
 
+[Watch Demo](https://youtu.be/71n4yh4qr4Y)
+
 # Problem Statement 🔍
 
 Coin Warden is the culmination of our shared inspiration and determination to bridge the knowledge gap in the rapidly evolving world of Web3 and blockchain technology. As avid tech enthusiasts, we were driven by the idea of democratizing access to quality Web3 education. Our motivation stemmed from a glaring void in the ed tech space – the absence of a comprehensive app catering specifically to Web3.
